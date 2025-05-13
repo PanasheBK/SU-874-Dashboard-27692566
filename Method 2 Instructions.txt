@@ -1,0 +1,10 @@
+Power System Data Analytics 874 Dashboard
+Student: Panashe Bradley Kapfunde (27692566)
+
+Instructions to Run the Dashboard:
+
+https://su-874-dashboard-27692566.onrender.com
+
+   - Username: professor
+   - Password: Power874
+
