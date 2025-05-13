@@ -1,0 +1,22 @@
+Power System Data Analytics 874 Dashboard
+Student: Panashe Bradley Kapfunde (27692566)
+
+Instructions to Run the Dashboard:
+1. Unzip this folder ('874_project.zip').
+2. Ensure Python 3.8+ is installed (download from python.org if needed).
+3. Open a terminal/command prompt in the unzipped folder.
+4. Install dependencies:
+   pip install pandas numpy plotly dash dash-bootstrap-components numpy-financial xgboost scikit-learn dash-auth
+5. Run the app:
+   python dashboard.py
+6. Open a browser and go to http://127.0.0.1:8050.
+7. Log in with:
+   - Username: professor
+   - Password: Power874
+8. Explore all tabs (Project, Weather, Sizing, Energy, Financials, Predictions).
+9. To download a summary, click "Download Dashboard as PDF" and print the HTML to PDF.
+
+Please ensure that:
+- Ensure 'Industrial-Plastic Manufacturer.csv' and 'SUN Hour.csv' are in the folder.
+- If the logo doesn't appear, it won't affect functionality.
+- Contact me at 0812369925 or 27692566@sn.ac.za if you encounter issues.
