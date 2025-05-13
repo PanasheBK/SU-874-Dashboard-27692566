@@ -1,9 +1,3 @@
-Power System Data Analytics 874 Dashboard
-Student: Panashe Bradley Kapfunde (27692566)
-
-
-Ensure that the following is properly installed:
-
 pandas
 numpy
 plotly
